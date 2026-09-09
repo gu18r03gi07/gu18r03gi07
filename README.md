@@ -147,7 +147,7 @@ Projetos desenvolvidos durante minha formação em desenvolvimento Web e Full St
 # 🎓 Formação & Certificações
 
 **🎓 Engenharia de Software**  
-Instituição: Fatec Sorocaba  
+Instituição: UNIFIO Ourinhos  
 Status: Em andamento  
 
 **💻 Cursos & Certificações**
