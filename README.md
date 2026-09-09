@@ -31,7 +31,7 @@ Atualmente estou focado em **Java, desenvolvimento Web, APIs, bancos de dados, A
 
 ---
 
-# 🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 ### 💻 Linguagens
 
@@ -72,55 +72,35 @@ Atualmente estou focado em **Java, desenvolvimento Web, APIs, bancos de dados, A
 
 ---
 
-# 🚀 Projetos em Destaque
+## 🚀 Meus Projetos
 
-## 🛒 E-commerce Backend
+### 🛒 [E-commerce Backend](https://github.com/gu18r03gi07/ecommerce-backend-4b)
 
 Backend desenvolvido em **Java** para um sistema de comércio eletrônico com funcionalidades completas de gerenciamento.
 
-### 🧰 Stack Tecnológico
+**Stack:** Java • Spring Boot • REST API • MySQL • JPA/Hibernate
 
-| Tecnologia | Uso |
-|-----------|-----|
-| `Java` | Linguagem principal |
-| `Spring Boot` | Framework backend |
-| `REST API` | Arquitetura |
-| `MySQL` | Banco de dados |
-| `JPA/Hibernate` | ORM |
-| `Git` | Versionamento |
+### 🎨 [Construção de Layout](https://github.com/gu18r03gi07/Constru-o-de-Layout-atividade)
 
-### ⚙️ Funcionalidades Principais
+Projeto de desenvolvimento web focado em criação de **layouts responsivos** com HTML e CSS.
 
-* 👤 Gerenciamento de Usuários
-* 📦 Catálogo de Produtos
-* 🗂️ Categorias de Produtos
-* 🛒 Sistema de Pedidos
-* 📊 Controle de Estoque
-* 🔐 Autenticação Segura
-* 🌐 API REST completa
-* 🗄️ Banco de dados otimizado
+**Stack:** HTML5 • CSS3 • Responsive Design
 
-🔗 **[Ver projeto no GitHub →](https://github.com/gu18r03gi07/ecommerce-backend-4b)**
+### 🌐 [Site 01](https://github.com/gu18r03gi07/site01)
+
+Primeiro site completo com **HTML, CSS e JavaScript**, desenvolvido como exercício prático.
+
+**Stack:** HTML5 • CSS3 • JavaScript
+
+### 🐘 [Teste PHP](https://github.com/gu18r03gi07/testephp)
+
+Projeto de teste e aprendizado em **PHP com MySQL**.
+
+**Stack:** PHP • MySQL • HTML/CSS • Docker
 
 ---
 
-## 🌐 Projetos Web
-
-Projetos desenvolvidos durante minha formação em desenvolvimento Web e Full Stack.
-
-### 🧰 Tecnologias
-
-| Projeto | Linguagens | Status |
-|---------|-----------|--------|
-| **Construção de Layout** | HTML, CSS | ✅ Concluído |
-| **Site 01** | HTML, CSS, JavaScript | ✅ Concluído |
-| **Teste PHP** | PHP, MySQL | ✅ Concluído |
-
-🔗 **[Ver todos os meus repositórios →](https://github.com/gu18r03gi07?tab=repositories)**
-
----
-
-# 📚 Atualmente Estudando
+## 📚 Atualmente Estudando
 
 ```
 ☕ Java & OOP
@@ -144,7 +124,7 @@ Projetos desenvolvidos durante minha formação em desenvolvimento Web e Full St
 
 ---
 
-# 🎓 Formação & Certificações
+## 🎓 Formação & Certificações
 
 **🎓 Engenharia de Software**  
 Instituição: UNIFIO Ourinhos  
@@ -161,7 +141,7 @@ Status: Em andamento
 
 ---
 
-# 🎯 Objetivos Profissionais
+## 🎯 Objetivos Profissionais
 
 Meu objetivo é evoluir como desenvolvedor e trabalhar na construção de **sistemas modernos, eficientes e escaláveis**.
 
@@ -182,7 +162,7 @@ Meu objetivo é evoluir como desenvolvedor e trabalhar na construção de **sist
 
 ---
 
-# 📈 Minha Evolução de Aprendizado
+## 📈 Minha Evolução de Aprendizado
 
 ```
 📚 Fundamentos
@@ -212,11 +192,11 @@ Meu objetivo é evoluir como desenvolvedor e trabalhar na construção de **sist
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gu18r03gi07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&line_height=27)](https://github.com/gu18r03gi07)
+[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gu18r03gi07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/gu18r03gi07)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu18r03gi07&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/gu18r03gi07)
 
@@ -224,17 +204,7 @@ Meu objetivo é evoluir como desenvolvedor e trabalhar na construção de **sist
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gu18r03gi07&theme=tokyonight&hide_border=true)](https://github.com/gu18r03gi07)
-
-</div>
-
----
-
-# 💡 O Que Estou Construindo
+## 💡 O Que Estou Construindo
 
 Atualmente estou buscando transformar meus estudos em projetos cada vez mais completos e desafiadores.
 
@@ -258,7 +228,7 @@ Atualmente estou buscando transformar meus estudos em projetos cada vez mais com
 
 ---
 
-# 🌟 Filosofia de Desenvolvimento
+## 🌟 Filosofia de Desenvolvimento
 
 > **"Programar é transformar problemas em soluções. Cada linha de código é uma oportunidade de aprender, crescer e criar impacto."**
 
@@ -271,7 +241,7 @@ Acredito que:
 
 ---
 
-# 🌐 Contato & Redes Profissionais
+## 🌐 Contato & Redes Profissionais
 
 <div align="center">
 
@@ -286,7 +256,7 @@ Acredito que:
 ### 📞 Informações de Contato
 
 | Canal | Informação |
-|-------|-----------|
+|-------|----------|
 | **Telefone** | 📞 (14) 99179-2178 |
 | **WhatsApp** | 💬 [Enviar mensagem](https://wa.me/5514991792178) |
 | **GitHub** | 🐙 [@gu18r03gi07](https://github.com/gu18r03gi07) |
@@ -300,20 +270,6 @@ Acredito que:
 - 📚 Parcerias e colaboração
 - 🚀 Desenvolvimento de produtos
 - 🌱 Mentoria e aprendizado contínuo
-
----
-
-# 🎁 Convites & Chamadas
-
-### 🤝 Vamos Colaborar!
-
-Se você está trabalhando em:
-- 🚀 Startups e produtos inovadores
-- 💼 Projetos corporativos
-- 🌐 Open source
-- 📚 Estudos e pesquisa
-
-**[Entre em contato comigo!](mailto:giamarcogustavo@gmail.com)** Adoro trabalhar em equipe e aprender com outras pessoas.
 
 ---
 
