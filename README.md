@@ -291,7 +291,7 @@ Acredito que:
 | **Telefone** | 📞 (14) 99179-2178 |
 | **WhatsApp** | 💬 [Enviar mensagem](https://wa.me/5514991792178) |
 | **GitHub** | 🐙 [@gu18r03gi07](https://github.com/gu18r03gi07) |
-| **Email** | 📧 gustavo.rgiamarco@gmail.com |
+| **Email** | 📧 giamarcogustavo@gmail.com |
 
 ### 💼 Disponibilidade
 
@@ -314,7 +314,7 @@ Se você está trabalhando em:
 - 🌐 Open source
 - 📚 Estudos e pesquisa
 
-**[Entre em contato comigo!](mailto:gustavo.rgiamarco@gmail.com)** Adoro trabalhar em equipe e aprender com outras pessoas.
+**[Entre em contato comigo!](mailto:giamarcogustavo@gmail.com)** Adoro trabalhar em equipe e aprender com outras pessoas.
 
 ---
 
