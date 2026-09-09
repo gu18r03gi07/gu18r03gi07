@@ -44,30 +44,34 @@ Meu objetivo é transformar ideias e problemas em **soluções de software efici
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ### 🗄️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### 🔧 Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 ---
 
 # 🚀 Projetos em Destaque
 
-### 🛒 E-commerce Backend
+## 🛒 E-commerce Backend
 
-Backend desenvolvido em Java para um sistema de comércio eletrônico.
+Backend desenvolvido em **Java** para um sistema de comércio eletrônico.
 
-**Tecnologias:**
+### 🧰 Tecnologias
 
 `Java` `Spring Boot` `REST API` `MySQL` `JPA` `Git`
 
-**Funcionalidades:**
+### ⚙️ Funcionalidades
 
 * 👤 Usuários
 * 📦 Produtos
@@ -78,44 +82,44 @@ Backend desenvolvido em Java para um sistema de comércio eletrônico.
 * 🌐 API REST
 * 🗄️ Banco de dados
 
-🔗 **[Ver projeto no GitHub](https://github.com/gu18r03gi07/ecommerce-backend-4b)**
+🔗 [**Ver projeto no GitHub**](https://github.com/gu18r03gi07/ecommerce-backend-4b)
 
 ---
 
-### 🌐 Projetos Web
+## 🌐 Projetos Web
 
 Projetos desenvolvidos durante minha formação em desenvolvimento Web.
 
-**Tecnologias:**
+### 🧰 Tecnologias
 
 `HTML` `CSS` `JavaScript` `PHP`
 
-🔗 **[Ver meus repositórios](https://github.com/gu18r03gi07?tab=repositories)**
+🔗 [**Ver meus repositórios**](https://github.com/gu18r03gi07?tab=repositories)
 
 ---
 
 # 📚 Atualmente Estudando
 
 ```text
-Java
- ↓
-Programação Orientada a Objetos
- ↓
-Banco de Dados
- ↓
-SQL
- ↓
-APIs REST
- ↓
-Spring Boot
- ↓
-Angular
- ↓
-Full Stack
- ↓
-Inteligência Artificial
- ↓
-Automação
+☕ Java
+   ↓
+🧠 Programação Orientada a Objetos
+   ↓
+🗄️ Banco de Dados
+   ↓
+🔎 SQL
+   ↓
+🔌 APIs REST
+   ↓
+🌱 Spring Boot
+   ↓
+🅰️ Angular
+   ↓
+🌐 Desenvolvimento Full Stack
+   ↓
+🤖 Inteligência Artificial
+   ↓
+⚡ Automação
 ```
 
 ---
@@ -130,13 +134,13 @@ Tenho interesse especialmente em:
 * ☕ Java
 * 🌱 Spring Boot
 * 🅰️ Angular
-* 🗄️ Banco de dados
+* 🗄️ Banco de Dados
 * 🔌 APIs REST
 * 🤖 Inteligência Artificial
 * ⚡ Automação
 * ☁️ Cloud
 * 🧩 Arquitetura de Software
-* 🚀 Micro SaaS
+* 🚀 Desenvolvimento de produtos digitais
 
 ---
 
@@ -153,13 +157,15 @@ Tenho interesse especialmente em:
      ↓
 🗄️ Banco de Dados
      ↓
+🔎 SQL
+     ↓
 🔌 APIs
      ↓
 🌱 Spring Boot
      ↓
 🅰️ Angular
      ↓
-🚀 Full Stack
+🌐 Full Stack
      ↓
 🤖 IA + Automação
      ↓
@@ -184,7 +190,7 @@ Tenho interesse especialmente em:
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gu18r03gi07\&theme=tokyonight\&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=gu18r03gi07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -204,6 +210,8 @@ Atualmente estou buscando transformar meus estudos em projetos cada vez mais com
 🌐 Front-end
    +
 🤖 Inteligência Artificial
+   +
+⚡ Automação
    =
 🚀 Soluções reais
 ```
@@ -222,7 +230,11 @@ Acredito que cada projeto é uma oportunidade para aprender, experimentar novas 
 
 ### 💻 GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-gu18r03gi07-181717?style=for-the-badge\&logo=github)](https://github.com/gu18r03gi07)
+[![GitHub](https://img.shields.io/badge/GitHub-gu18r03gi07-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gu18r03gi07)
+
+### 📱 Telefone
+
+📞 **(14) 99179-2178**
 
 ### 💼 Disponibilidade
 
