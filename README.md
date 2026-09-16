@@ -279,9 +279,6 @@ Acredito que:
 
 ⭐ **Explore meus projetos e acompanhe minha evolução como desenvolvedor!**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gu18r03gi07.gu18r03gi07)
-
-
 [⬆ Voltar ao Topo](#-gustavo-rodrigues-giamarco)
 
 </div>
