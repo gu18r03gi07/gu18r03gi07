@@ -76,7 +76,7 @@ Atualmente estou focado em **Java, desenvolvimento Web, APIs, bancos de dados, A
 
 ### 🛒 [E-commerce Backend](https://github.com/gu18r03gi07/ecommerce-backend-4b)
 
-Backend desenvolvido em **Java** para um sistema de comércio eletrônico com funcionalidades completas de gerenciamento.
+Backend desenvolvido em **Java** para um sistema ecommerce com funcionalidades completas de gerenciamento.
 
 **Stack:** Java • Spring Boot • REST API • MySQL • JPA/Hibernate
 
@@ -281,7 +281,6 @@ Acredito que:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gu18r03gi07.gu18r03gi07)
 
-**Made with ❤️ by Gustavo Rodrigues Giamarco**
 
 [⬆ Voltar ao Topo](#-gustavo-rodrigues-giamarco)
 
