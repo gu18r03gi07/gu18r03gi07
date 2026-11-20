@@ -80,6 +80,18 @@ Backend desenvolvido em **Java** para um sistema ecommerce com funcionalidades c
 
 **Stack:** Java • Spring Boot • REST API • MySQL • JPA/Hibernate
 
+### 🏙️ [Cidade em Dia — Backend](https://github.com/gu18r03gi07/Back-End-Cidade-em-Dia)
+
+API REST para uma plataforma de cidadania onde moradores registram ocorrências urbanas e acompanham o andamento até a resolução pela prefeitura.
+
+**Stack:** Java 17 • Spring Boot • Spring Security • Spring Data JPA • MySQL
+
+### 🚗 [LavaFlow](https://github.com/gu18r03gi07/LavaFlow)
+
+Aplicação demonstrativa para agendamento de lavagens de veículos, com cadastro de veículos e serviços, consulta de horários disponíveis e uma área administrativa para acompanhar a agenda e os boxes.
+
+**Stack:** Java 21 • Spring Boot • PostgreSQL • JavaScript • HTML/CSS
+
 ### 🎨 [Construção de Layout](https://github.com/gu18r03gi07/Constru-o-de-Layout-atividade)
 
 Projeto de desenvolvimento web focado em criação de **layouts responsivos** com HTML e CSS.
